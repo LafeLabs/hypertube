@@ -7,6 +7,7 @@
         "geometron.js",
         "glyph.txt",
         "index.html",
+        "mixtape.css",
         "mixtape.html",
         "operator.html",
         "qrcode-page.html",
@@ -47,6 +48,8 @@
         "text2php.txt"
     ],
     "songs": [
+        "I_Got_it_Yesterday_-_Senator_Ted_Stevens.ogg",
+        "Series_of_Tubes_-_Senator_Ted_Stevens.ogg",
         "internationale.mp3"
     ]
 }
