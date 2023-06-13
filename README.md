@@ -29,3 +29,5 @@ THE TRASH MAGIC NETWORK IS ALSO SPREAD BY MEANS OF:
 ![](https://raw.githubusercontent.com/LafeLabs/hypertube/main/trashmagic/tubes.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/hypertube/main/trashmagic/hypertube-qrcode-page.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/hypertube/main/trashmagic/winamp-iconpage.svg)
