@@ -20,7 +20,11 @@
         "webeditor.html"
     ],
     "data": [
-        "dna.txt"
+        "alignimage.txt",
+        "dna.txt",
+        "icon.txt",
+        "iconfeed.txt",
+        "imagefeed.txt"
     ],
     "skins": [
         "Blue_Jeans_v13.wsz",
