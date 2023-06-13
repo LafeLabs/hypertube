@@ -2,6 +2,7 @@
 
 ![](https://raw.githubusercontent.com/LafeLabs/hypertube/main/trashmagic/winamp-tube.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/hypertube/main/trashmagic/lattice.png)
 
 THE TRASH MAGIC HYPERTUBE IS A CARDBOARD TUBE FROM THE INSIDE OF A ROLL OF TOILET PAPER, WITH A HYPERLINK ON IT.  
 
