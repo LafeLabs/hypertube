@@ -53,8 +53,7 @@
     ],
     "songs": [
         "I_Got_it_Yesterday_-_Senator_Ted_Stevens.ogg",
-        "Series_of_Tubes_-_Senator_Ted_Stevens.ogg",
-        "internationale.mp3"
+        "Series_of_Tubes_-_Senator_Ted_Stevens.ogg"
     ],
     "iconsymbols": [
         "abcfont.svg",
