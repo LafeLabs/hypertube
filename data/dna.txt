@@ -55,5 +55,20 @@
         "I_Got_it_Yesterday_-_Senator_Ted_Stevens.ogg",
         "Series_of_Tubes_-_Senator_Ted_Stevens.ogg",
         "internationale.mp3"
+    ],
+    "iconsymbols": [
+        "abcfont.svg",
+        "cursor.svg",
+        "delete.svg",
+        "expand.svg",
+        "expandsmall.svg",
+        "left.svg",
+        "leftsmall.svg",
+        "right.svg",
+        "rightsmall.svg",
+        "rotate.svg",
+        "scale.svg",
+        "shrink.svg",
+        "shrinksmall.svg"
     ]
 }

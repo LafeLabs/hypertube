@@ -16,6 +16,7 @@ mkdir("php");
 mkdir("trashmagic");
 mkdir("mixtape");
 mkdir("skins");
+mkdir("iconsymbols");
 
 copy("https://raw.githubusercontent.com/LafeLabs/hypertube/main/php/replicator.txt","replicator.php");
 
@@ -52,6 +53,13 @@ foreach($dna->php as $value){
 
 }
     
+    
+foreach($dna->iconsymbols as $value){
+    
+    copy($baseurl."iconsymbols/".$value,"iconsymbols/".$value);
+
+}
+
 
 
 ?>
